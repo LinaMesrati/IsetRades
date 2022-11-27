@@ -584,15 +584,14 @@ body {font-family: Verdana, sans-serif;}
   .weekdays li, .days li {width: 12.2%;}}
   #copyright
   {
-    position: absolute;
+ position: absolute;
     top: 4000px;
     background-image: url("copy.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color: rgb(97, 85, 118);
-    width: 100%;
-    position: absolute;
-
+     width: 110%;
+     
     text-align: center;
     font-size: larger;
    
